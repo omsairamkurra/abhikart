@@ -1,5 +1,5 @@
 .item {
-  width: 350px;
+  width: 300px;
 }
 
 .item p {
@@ -9,6 +9,11 @@
 .item-prices {
   display: flex;
   gap: 20px;
+}
+
+.image {
+  width: 300px;
+  height: 300px;
 }
 
 .item-price-new {
